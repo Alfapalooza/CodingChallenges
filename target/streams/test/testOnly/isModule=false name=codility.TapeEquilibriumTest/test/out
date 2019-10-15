@@ -1,0 +1,10 @@
+[0m[[0m[0minfo[0m] [0m[0m[32mTapeEquilibriumTest:[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32mTapeEquilibrium.solution[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- should work with basic example[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- should work with slightly more complex example[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- should work with even complex example[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- should work with uneven complex example[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- should work with bound at start[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- should work with bound at end[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- should work with weird example[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- should work with other weird example[0m[0m
