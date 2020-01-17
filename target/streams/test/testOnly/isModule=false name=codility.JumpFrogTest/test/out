@@ -1,6 +1,0 @@
-[0m[[0m[0minfo[0m] [0m[0m[32mJumpFrogTest:[0m[0m
-[0m[[0m[0minfo[0m] [0m[0m[32mJumpFrog.solution[0m[0m
-[0m[[0m[0minfo[0m] [0m[0m[32m- should work when everything fits[0m[0m
-[0m[[0m[0minfo[0m] [0m[0m[32m- should work when slight overflow[0m[0m
-[0m[[0m[0minfo[0m] [0m[0m[32m- should work when big overflow[0m[0m
-[0m[[0m[0minfo[0m] [0m[0m[32m- should work when d is bigger than y[0m[0m

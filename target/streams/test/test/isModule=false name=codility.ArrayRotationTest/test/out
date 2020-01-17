@@ -1,9 +1,0 @@
-[0m[[0m[0minfo[0m] [0m[0m[32mArrayRotationTest:[0m[0m
-[0m[[0m[0minfo[0m] [0m[0m[32mArrayRotation.solution (even)[0m[0m
-[0m[[0m[0minfo[0m] [0m[0m[32m- should work when k is smaller than array size[0m[0m
-[0m[[0m[0minfo[0m] [0m[0m[32m- should work when k is bigger than array size[0m[0m
-[0m[[0m[0minfo[0m] [0m[0m[32m- should work when k is exactly array size[0m[0m
-[0m[[0m[0minfo[0m] [0m[0m[32mArrayRotation.solution (uneven)[0m[0m
-[0m[[0m[0minfo[0m] [0m[0m[32m- should work when k is smaller than array size[0m[0m
-[0m[[0m[0minfo[0m] [0m[0m[32m- should work when k is bigger than array size[0m[0m
-[0m[[0m[0minfo[0m] [0m[0m[32m- should work when k is exactly array size[0m[0m
